@@ -1,0 +1,32 @@
+
+.col {
+    margin-bottom: 5%;
+}
+.card{
+    padding: 20%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 95%;
+}
+/* LIBERDADE*/
+.nav_liberdade {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px 3%;
+    border: solid 1px;
+}
+.a_liberdade{
+margin: 5px 20px;
+text-decoration: none;
+}
+.main_liberdade {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+.section_liberdade{
+    margin: 1%;
+    border: solid 1px;
+}
